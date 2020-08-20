@@ -1,0 +1,11 @@
+APP ANDROID
+	Acesso à base de dados por Android Room, para garantir ficheiros em cache até a conexão com a base de dados ser reestabelecida.
+
+	Máquina pequena, pouco poder de processamento necessário
+
+	Caso seja necessário mais espaço de armazenamento:
+		- Aumentar disco da máquina
+		ou
+		- Criar um repositório S3 para guardar dados mais pesados (imagens, videos, etc)
+		
+
